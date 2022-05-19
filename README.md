@@ -1,4 +1,4 @@
-# auto-recibo:
+# Auto-Recibo:
  Programa que automatiza a criação de recibos de aluguel usando a lib PDFmake
  
 # Instruções:
